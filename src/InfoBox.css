@@ -22,7 +22,7 @@
   .infoBox__cases {
     color: #cc1034;
     font-weight: 600;
-    font-size: 4vw;
+     /* font-size: 16;     viewport width */
     margin-bottom: 0.5rem;
   }
   
